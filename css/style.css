@@ -1,0 +1,49 @@
+
+#logo{
+	margin-right: 10px;
+}
+.nobody{
+	height: 55px;
+}
+
+#keahlian{
+	display: flex;
+	width: 100%;
+	font-family: 'Cabin', sans-serif;
+	border:1px solid black;
+	letter-spacing: 1px;
+}  
+#title_keahlian	{
+	margin:0;
+	padding:10px;
+	font-family: 'Liu Jian Mao Cao', cursive;
+	font-size:50px;
+	background-color: #66CDAA;
+	color: #FFFFFF;
+}
+#keahlian .keahlian1{
+	color:  #32CD32;
+	background-color: #90EE90;
+}
+#keahlian img{
+	width: 40%;
+	height: 40%;
+	letter-spacing: 2px;
+	padding-left: 10px;
+	border-radius: 50px;
+}
+#keahlian .keahlian2{
+	color: #00BFFF;
+	background-color: #AFEEEE;
+}
+#keahlian .keahlian3{
+	color: #778899;
+	background-color: #D3D3D3;
+}
+#keahlian h1{
+	padding-left: 10px;
+}
+#keahlian p{
+	background-color: white;
+	border-radius: 10px;
+}
