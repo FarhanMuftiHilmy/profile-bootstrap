@@ -2,6 +2,19 @@
 #logo{
 	margin-right: 10px;
 }
+#nav-title{
+	font-family: 'Pacifico', cursive;	
+}
+.section h1{
+	font-family: 'Indie Flower', cursive;
+}
+.section img{
+	border-radius: 10px;
+	margin-bottom: 10px;
+	width: 35%;
+	height: 35%;
+	float: right;
+}
 .nobody{
 	height: 55px;
 }
